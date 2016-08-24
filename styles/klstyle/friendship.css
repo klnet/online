@@ -1,0 +1,337 @@
+/* vBulletin 3 CSS For Style 'friendship' (styleid: 12) */
+body
+{
+	background: #FFFFFF url(bg.gif);
+	color: #000000;
+	font: 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+a:link
+{
+	color: #6F4700;
+	text-decoration: none;
+
+}
+a:visited
+{
+	color: #6F4700;
+	text-decoration: none;
+
+}
+a:hover, a:active
+{
+	color: #6F4700;
+	text-decoration: underline;
+
+}
+.page
+{
+	background: #FFFFFF url(bg.gif);
+	color: #000000;
+}
+td, th, p, li
+{
+	font: 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.tborder
+{
+	background: #F1FFD2;
+	color: #000000;
+	border: 1px solid #87CD00;
+}
+.tcat
+{
+	background : #88CD00 url(nav.gif) repeat-x top left;
+	color: #FFFFFF;
+	font: bold 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.tcat a:link
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+.tcat a:visited
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+.tcat a:hover, .tcat a:active
+{
+	color: #FFFF66;
+	text-decoration: none;
+
+}
+.thead
+{
+	background: #C7E71A;
+	color: #000000;
+	font: bold 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.thead a:link
+{
+	color: #000000;
+	text-decoration: none;
+
+}
+.thead a:visited
+{
+	color: #000000;
+	text-decoration: none;
+}
+.thead a:hover, .thead a:active
+{
+	color: #000000;
+	text-decoration: underline;
+}
+.tfoot
+{
+background : #88CD00 url(nav.gif) repeat-x top left;
+	color: #E0E0F6;
+}
+.tfoot a:link
+{
+	color: #FFFFFF;
+	text-decoration: none;
+	}
+.tfoot a:visited
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.tfoot a:hover, .tfoot a:active
+{
+	color: #FFFF66;
+	text-decoration: none;
+}
+.alt1, .alt1Active
+{
+	background: #F5FFE2;
+	color: #000000;
+	font: 12px Verdana, tahoma, arial;
+	line-height: 150%
+}
+.alt2, .alt2Active
+{
+	background: #F5F5FF;
+	color: #000000;
+	font: 12px Verdana, tahoma, arial;
+	line-height: 150%
+}
+td.inlinemod
+{
+	background: #FFFFCC;
+	color: #000000;
+}
+.wysiwyg
+{
+	background: #F5F5FF;
+	color: #000000;
+	font: 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+textarea, .bginput
+{
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	
+}
+.button
+{
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+select
+{
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+option, optgroup
+{
+	font-size: 11px;
+	font-family: verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.smallfont
+{
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.time
+{
+	color: #666686;
+}
+.navbar
+{
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.highlight
+{
+	color: #FF0000;
+	font-weight: bold;
+}
+.fjsel
+{
+	background: #3E5C92;
+	color: #E0E0F6;
+}
+.fjdpth0
+{
+	background: #F7F7F7;
+	color: #000000;
+}
+.panel
+{
+	background: #FAFFF2;
+	color: #000000;
+	padding: 10px;
+	border: 2px outset;
+}
+.panelsurround
+{
+	background: #E7FEBC;
+	color: #000000;
+	
+}
+legend
+{
+	color: #22229C;
+	font: 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.vbmenu_control
+{
+	background : #88CD00 url(nav.gif) repeat-x top left;
+	color: #FFFFFF;
+	font: bold 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	padding: 3px 6px 3px 6px;
+	white-space: nowrap;
+}
+.vbmenu_control a:link
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_control a:visited
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_control a:hover, .vbmenu_control a:active
+{
+	color: #FFFF66;
+	text-decoration: none;
+}
+
+
+
+.vbmenu2_control
+{
+	color: #FFFFFF;
+	font: bold 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	padding: 3px 6px 3px 6px;
+	white-space: nowrap;
+}
+.vbmenu2_control a:link
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu2_control a:visited
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu2_control a:hover, .vbmenu2_control a:active
+{
+	color: #FFFF66;
+	text-decoration: none;
+}
+
+
+.vbmenu_popup
+{
+	background: #FFFFFF;
+	color: #000000;
+	border: 1px solid #0B198C;
+}
+.vbmenu_option
+{
+	background: #F6FBD9;
+	color: #000000;
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.vbmenu_option a:link
+{
+	color: #22229C;
+	text-decoration: none;
+}
+.vbmenu_option a:visited
+{
+	color: #22229C;
+	text-decoration: none;
+}
+.vbmenu_option a:hover, .vbmenu_option a:active
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_hilite
+{
+	background: #A6C114;
+	color: #FFFFFF;
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.vbmenu_hilite a:link
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_hilite a:visited
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_hilite a:hover, .vbmenu_hilite a:active
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+/* ***** styling for 'big' usernames on postbit etc. ***** */
+.bigusername { font-size: 14pt; }
+
+/* ***** small padding on 'thead' elements ***** */
+td.thead, div.thead { padding: 4px; }
+
+/* ***** basic styles for multi-page nav elements */
+.pagenav a { text-decoration: none; }
+.pagenav td { padding: 2px 4px 2px 4px; }
+
+/* ***** define margin and font-size for elements inside panels ***** */
+.fieldset { margin-bottom: 6px; }
+.fieldset, .fieldset td, .fieldset p, .fieldset li { font-size: 11px; }
+
+/* ***** don't change the following ***** */
+form { display: inline; }
+label { cursor: default; }
+.normal { font-weight: normal; }
+.inlineimg { vertical-align: middle; }
+
+.le1{background: url(le1.gif) repeat-y top left ;padding-left:12px }
+.le2{background: url(le2.gif) repeat-y top right ;padding-right:12px }
+
+.bannerlogo{background: url(topbanner_20071116.gif) no-repeat top left;height:196px}
+.bannerbg{background: url(bannerbg_20071116.gif) repeat-x top left;height:196px}
+
+.nav {background : #88CD00 url(nav.gif) repeat-x top center;height:22px}
+
+
+.footer1{background: url(footer1.gif) no-repeat top left;height:100px}
+.footer2{background: url(footer2.gif) repeat-x top left;height:100px}
+.footer3{background: url(footer3.gif) no-repeat top right;height:100px}
+
+
+
+.b1{background: url(b1.gif) no-repeat top left;height:32px}
+.b2{background: url(b2.gif) repeat-x top left;height:32px}
+.b3{background: url(b3.gif) no-repeat top right;height:32px}
+.b4{background: url(b4.gif) repeat-x top center;height:4px}
+
+.cuongsig {font: 11px verdana, arial, tahoma;color:navy}
